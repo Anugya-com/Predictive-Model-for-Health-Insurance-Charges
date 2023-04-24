@@ -3,8 +3,7 @@
 
 
 In this project, we are using the US Health Insurance Dataset taken from Kaggle. 
-Our main aim is to help provide the product owner and/or pricing manager with data backed insights on key characteristics of the customer to consider while segmenting and targeting the customer base. 
-Secondly, we want to predict the expected insurance charges based on the available data on the prospective customer. 
+Our main aim is to help provide the underwriters with data backed insights on key characteristics of the customer to consider while fixing premium rate for the customer base. 
 This could help in finding the right premium rate for customers helping the company to control risk undertaken.
 
 
