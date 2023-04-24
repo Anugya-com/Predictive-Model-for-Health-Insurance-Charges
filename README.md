@@ -13,7 +13,7 @@ a)	We would like to predict the medical charges billed by insurance company usin
 
 b)	Further, we would formulate hypothesis to check individual and combined impact of attributes like Age, Sex, BMI, Number of Children, Smoking, and Region on insurance charges.
 
-c)	What are the key attributes (if any) based on which we could segment and target our customers. We want to provide product managers with insights that could help them prepare better targeted insurance plans for the customers with different preferences and/or region of residence.
+c)	What are the key attributes (if any) based on which we could segment and target our customers. We want to provide underwriters with insights that could help them prepare better targeted insurance plans for the customers with different preferences and/or region of residence.
 
 Data
 a)	We are using US Health Insurance Dataset from Kaggle.
